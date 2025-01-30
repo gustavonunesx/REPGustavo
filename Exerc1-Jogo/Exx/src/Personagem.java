@@ -1,4 +1,4 @@
-package PACKAGE_NAME;public class Personagem {
+class Personagem {
         int id ;
         String nome;
         float hp;
